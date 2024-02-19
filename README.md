@@ -22,8 +22,11 @@
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
 ![googlecolab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
 ![amazonaws](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-
+## To Contact
+#blog : <href>https://blog.naver.com/nmnm1419</href>
+#mail : kshk08@hanyang.ac.kr
 
 <!--
 **HiImSUN/HiImSUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
