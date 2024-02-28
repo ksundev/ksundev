@@ -23,6 +23,8 @@
 ![googlecolab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
 ![amazonaws](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![ocaml](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=white)
+
 
 ## To Contact
 #blog : <href>https://blog.naver.com/nmnm1419</href>
