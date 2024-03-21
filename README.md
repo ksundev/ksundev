@@ -19,6 +19,8 @@
 ![apachespark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)
 ![windows10](https://img.shields.io/badge/windows10-0078D6?logo=windows10&logoColor=white)
 ![macos](https://img.shields.io/badge/macOS-000000?logo=macos&logoColor=white)
+![vmware](https://img.shields.io/badge/VMware-%23607078?logo=vmware&logoColor=white)
+![linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
 ![googlecolab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
 ![amazonaws](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
