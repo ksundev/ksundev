@@ -14,12 +14,15 @@
 ![visualstudiocode](https://img.shields.io/badge/V.S.Code-013243?logo=visualstudiocode&logoColor=white)
 ![eclipseide](https://img.shields.io/badge/Eclipse%20IDE-2C2255?logo=eclipseide&logoColor=white)
 ![anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white)
+![qt](https://img.shields.io/badge/QtDesigner-41CD52?logo=qt&logoColor=white)
+
 
 ### Frameworks & Libraries:
 ![springboot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
 ![pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![numpy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
+![react](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
 
 ### Databases & Data Processing:
 ![oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
@@ -38,6 +41,7 @@
 ![googlecolab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
 ![amazonaws](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
 
 
 # To Contact Me
