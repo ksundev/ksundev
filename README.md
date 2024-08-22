@@ -1,19 +1,21 @@
 # Hi I'm SUN 👋
-## Here's my experiences!!
+## Here's my STACK!!
 
 ### Programming Languages:
-![python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![c](https://img.shields.io/badge/C%2FC%2B%2B-A8B9CC?logo=c&logoColor=white)
+![python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![java](https://img.shields.io/badge/java-FF9E0F?logo=java&logoColor=white)
-![javascript](https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=red)
-![html5](https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white)
 ![ocaml](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=white)
+![html5](https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white)
+![javascript](https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=red)
+![typescript](https://img.shields.io/badge/TypeScript%20-3178C6?logo=typescript&logoColor=white)
+
 
 ### Development Tools & Environments:
-![intellijidea](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white)
-![pycharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm)
 ![visualstudiocode](https://img.shields.io/badge/V.S.Code-013243?logo=visualstudiocode&logoColor=white)
+![intellijidea](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white)
 ![eclipseide](https://img.shields.io/badge/Eclipse%20IDE-2C2255?logo=eclipseide&logoColor=white)
+![pycharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm)
 ![anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white)
 ![qt](https://img.shields.io/badge/QtDesigner-41CD52?logo=qt&logoColor=white)
 
