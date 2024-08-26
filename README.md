@@ -21,8 +21,9 @@
 
 
 ### Frameworks & Libraries:
-![springboot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
 ![react](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
+![nestjs](https://img.shields.io/badge/NestJS%20-E0234E?logo=nestjs&logoColor=white)
+![springboot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
 ![pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![numpy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
