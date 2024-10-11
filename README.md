@@ -24,12 +24,14 @@
 ![react](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
 ![nestjs](https://img.shields.io/badge/NestJS%20-E0234E?logo=nestjs&logoColor=white)
 ![springboot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![django](https://img.shields.io/badge/Django%20-092E20?logo=django&logoColor=white)
 ![pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![numpy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
 
 ### Databases & Data Processing:
 ![oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
+![mysql](https://img.shields.io/badge/MySQL%20-%234479A1?logo=mysql&logoColor=white)
 ![apachetomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?logo=apachetomcat&logoColor=black)
 ![apachespark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)
 
