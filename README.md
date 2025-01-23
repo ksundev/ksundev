@@ -22,6 +22,7 @@
 
 ### Frameworks & Libraries:
 ![react](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
+![nextjs](https://img.shields.io/badge/NextJs%20-000000?logo=next.js)
 ![nestjs](https://img.shields.io/badge/NestJS%20-E0234E?logo=nestjs&logoColor=white)
 ![springboot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
 ![django](https://img.shields.io/badge/Django%20-092E20?logo=django&logoColor=white)
@@ -47,6 +48,7 @@
 ![jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
 ![slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
 ![postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![vercel](https://img.shields.io/badge/Vercel%20-000000?logo=vercel)
 ![googlecolab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
 ![amazonaws](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 
