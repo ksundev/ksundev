@@ -6,7 +6,6 @@
 ![python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![java](https://img.shields.io/badge/java-FF9E0F?logo=java&logoColor=white)
 ![ocaml](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=white)
-![html5](https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=red)
 ![typescript](https://img.shields.io/badge/TypeScript%20-3178C6?logo=typescript&logoColor=white)
 
