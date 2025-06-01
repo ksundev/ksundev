@@ -53,7 +53,7 @@
 
 
 # To Contact Me
-#blog : <href>https://blog.naver.com/nmnm1419</href>
+#blog : <href>https://blog.naver.com/nmnm1419</href> & <href>https://ksundev.tistory.com</href>
 #mail : kshk08@hanyang.ac.kr
 
 <!--
