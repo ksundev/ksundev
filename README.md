@@ -2,9 +2,10 @@
 ## Here's my STACK!!
 
 ### Programming Languages:
-![c](https://img.shields.io/badge/C%2FC%2B%2B-A8B9CC?logo=c&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![java](https://img.shields.io/badge/java-FF9E0F?logo=java&logoColor=white)
+![go](https://img.shields.io/badge/Go%20-%2300ADD8?logo=go&logoColor=white)
+![c](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
 ![ocaml](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=red)
 ![typescript](https://img.shields.io/badge/TypeScript%20-3178C6?logo=typescript&logoColor=white)
@@ -21,8 +22,9 @@
 
 ### Frameworks & Libraries:
 ![react](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
-![nextjs](https://img.shields.io/badge/NextJs%20-000000?logo=next.js)
-![nestjs](https://img.shields.io/badge/NestJS%20-E0234E?logo=nestjs&logoColor=white)
+![vuejs](https://img.shields.io/badge/Vue.Js%20-%234FC08D?logo=vue.js&logoColor=white)
+![nextjs](https://img.shields.io/badge/Next.Js%20-000000?logo=next.js)
+![nestjs](https://img.shields.io/badge/Nest.JS%20-E0234E?logo=nestjs&logoColor=white)
 ![springboot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
 ![django](https://img.shields.io/badge/Django%20-092E20?logo=django&logoColor=white)
 ![pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
