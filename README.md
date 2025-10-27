@@ -56,7 +56,7 @@
 
 # To Contact Me
 #blog : <href>https://blog.naver.com/nmnm1419</href> & <href>https://ksundev.tistory.com</href>
-#mail : kshk08@hanyang.ac.kr
+#mail : ksundevk@gmail.com
 
 <!--
 **HiImSUN/HiImSUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
